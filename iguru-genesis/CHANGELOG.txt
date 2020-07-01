@@ -1,0 +1,4 @@
+# Genesis Sample iGuRu.gr Theme Changelog
+
+## [3.3.0] - 2020-04-07
+Requires WordPress 5.4 or higher.
